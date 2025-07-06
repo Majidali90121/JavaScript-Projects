@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <style>
+        body{
+        background: url('smartwatch-screen-digital-device.jpg');
+        background-repeat:no-repeat;
+        background-size: 100% 100%;
+        background-position: fixed;
+        background-attachment: fixed;
+        }
+        div{
+            margin-top: 200px;
+            padding: 20px;
+          color: #fff;
+            font-size: 30px;
+            font-family: 'Roboto' , sans-serif;
+            text-align: center;
+        }
+        button{
+            border: 1px solid rgba(255,255,255,0.4);
+            border-radius: 50px;
+            padding: 4px;
+            backdrop-filter: blur(10px);
+            -webkit-backdrop-filter: blur(10px);
+        }
+        button:hover{
+            background-color: aquamarine;
+            border-radius: 10px;
+        }
+        button:focus{
+            border: 1px solid #2efc;
+        }
+        h1{
+            font-size: 3rem;
+            letter-spacing: 3px;;
+        }
+        h2{
+            font-size: 1.2rem;
+            margin-top:10px;
+            opacity: 0.8;
+        }
+
+    </style>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <div class="a">
+    <button onClick="HandleClick()">Click me</button>
+    <h1 id="demo"></h1>
+    <h2 id="demo2"></h2> 
+ </div>
+    <script>
+        function Click(){
+            let d= new Date()
+            document.getElementById('demo2').innerHTML=d.toLocaleDateString('en-US',{weekday:'long',month:'long',day:'numeric'});
+            document.getElementById('demo').innerHTML=d.getHours()+' : '+d.getMinutes()+' : '+d.getSeconds()
+        }
+        function HandleClick(){
+            setInterval(Click,1000)
+        }
+    </script>
+</body>
+</html>
