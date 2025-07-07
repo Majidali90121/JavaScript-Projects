@@ -48,9 +48,6 @@ Open `Login.html` in your browser to test the Login functionality.
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
 
 # ⏰ Real-Time Date Display Project
 
@@ -88,8 +85,6 @@ Simply open `Real time.html` in your browser to see the real-time date displayed
 
 ---
 =================================================
-<br>
-<br>
 <br>
 <br>
 <br>
