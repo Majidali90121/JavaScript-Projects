@@ -45,7 +45,11 @@ This project is a basic Login Authentication page designed with HTML, CSS, and J
 Open `Login.html` in your browser to test the Login functionality.
 =================================================
 <br>
-
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 
 # ⏰ Real-Time Date Display Project
@@ -84,7 +88,12 @@ Simply open `Real time.html` in your browser to see the real-time date displayed
 
 ---
 =================================================
-
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 
 
