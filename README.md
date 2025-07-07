@@ -37,18 +37,16 @@ This project is a basic Login Authentication page designed with HTML, CSS, and J
 - CSS3  
 - JavaScript  
 
-=====================================================================================
-
 
 ---
 
 ### 🚀 How to Run:
 
 Open `Login.html` in your browser to test the Login functionality.
-==================================================================================
+=================================================
+<br>
 
-
-
+<br>
 
 # ⏰ Real-Time Date Display Project
 
@@ -85,7 +83,7 @@ This project displays the current date in real-time using HTML, CSS, and JavaScr
 Simply open `Real time.html` in your browser to see the real-time date displayed on screen.
 
 ---
-=============================================================================================
+=================================================
 
 
 
