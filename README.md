@@ -42,7 +42,8 @@ This project is a basic Login Authentication page designed with HTML, CSS, and J
 
 ### 🚀 How to Run:
 
-Open `Login.html` in your browser to test the Login functionality.
+Open `Login.html` in your browser to test the Login functionality.<br>
+These are only for `PC`
 =================================================
 <br>
 <br>
@@ -81,7 +82,8 @@ This project displays the current date in real-time using HTML, CSS, and JavaScr
 
 ## 🚀 How to Run:
 
-Simply open `Real time.html` in your browser to see the real-time date displayed on screen.
+Simply open `Real time.html` in your browser to see the real-time date displayed on screen.<br>
+These are only for `PC`
 
 ---
 =================================================
@@ -133,5 +135,5 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 ### 🚀 How to Run:
 
 Open `Game.html` in your browser, select Rock, Paper, or Scissors, and see the result instantly.
-
+These are only for `PC`
 ---
