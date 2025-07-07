@@ -19,7 +19,7 @@ This project is a basic Login Authentication page designed with HTML, CSS, and J
 
 ## 📸 Screenshot:
 
-![Login Page Screenshot](./Images/Screenshot%202025-07-05%20235403.png)
+![Login Page Screenshot](./Image/Screenshot%202025-07-05%20235403.png)
 
 
 ---
@@ -68,7 +68,7 @@ This project displays the current date in real-time using HTML, CSS, and JavaScr
 
 ## 📸 Screenshot:
 
-![Real-Time Date Screenshot](./Images/Screenshot%202025-07-05%20235513.png)
+![Real-Time Date Screenshot](./Image/Screenshot%202025-07-05%20235513.png)
 
 ---
 
@@ -110,13 +110,13 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 
 ### ❌ You Lose Example:
 
-![You Lost Screenshot](./Images/Screenshot%202025-07-05%20235635.png)
+![You Lost Screenshot](./Image/Screenshot%202025-07-05%20235635.png)
 
 ---
 
 ### 🏆 You Win Example:
 
-![You Win Screenshot](./Images/Screenshot%202025-07-05%20235758.png)
+![You Win Screenshot](./Image/Screenshot%202025-07-05%20235758.png)
 
 ---
 
