@@ -42,7 +42,7 @@ This project is a basic Login Authentication page designed with HTML, CSS, and J
 
 ---
 
-## 🚀 How to Run:
+### 🚀 How to Run:
 
 Open `Login.html` in your browser to test the Login functionality.
 ==================================================================================
@@ -128,7 +128,7 @@ This project is a simple implementation of the classic Rock, Paper, Scissors gam
 
 ---
 
-## 🚀 How to Run:
+### 🚀 How to Run:
 
 Open `Game.html` in your browser, select Rock, Paper, or Scissors, and see the result instantly.
 
