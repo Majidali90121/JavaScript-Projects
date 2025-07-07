@@ -21,6 +21,7 @@ This project is a basic Login Authentication page designed with HTML, CSS, and J
 
 ![Login Page Screenshot](./Images/Screenshot%202025-07-05%20235403.png)
 
+
 ---
 ## 🔒 Username and Password
 
@@ -28,18 +29,26 @@ This project is a basic Login Authentication page designed with HTML, CSS, and J
 - Password = Majid123
 ---
 
+
+
 ## 🔧 Technologies Used:
 
 - HTML5  
 - CSS3  
 - JavaScript  
 
+=====================================================================================
+
+
 ---
 
 ## 🚀 How to Run:
 
 Open `Login.html` in your browser to test the Login functionality.
-============================================================================================================================
+==================================================================================
+
+
+
 
 # ⏰ Real-Time Date Display Project
 
@@ -76,7 +85,10 @@ This project displays the current date in real-time using HTML, CSS, and JavaScr
 Simply open `Real time.html` in your browser to see the real-time date displayed on screen.
 
 ---
-=======================================================================================================================
+=============================================================================================
+
+
+
 
 # ✊ Rock, Paper, Scissors Game - Beginner JavaScript Project
 
